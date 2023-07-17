@@ -1,0 +1,45 @@
+[
+  {
+    "name": "iphone 1",
+    "company": "apple",
+    "price": 100,
+    "category": "mobile"
+  },
+  {
+    "name": "iphone 2",
+    "company": "apple",
+    "price": 400,
+    "category": "parts"
+  },
+  {
+    "name": "oneplus 1",
+    "company": "mi",
+    "price": 150,
+    "category": "mine",
+    "featured": "true"
+  },
+  {
+    "name": "iphone 3",
+    "company": "samsung",
+    "price": 300,
+    "category": "mobile"
+  },
+  {
+    "name": "iphone 4",
+    "company": "apple",
+    "price": 200,
+    "category": "mobile"
+  },
+  {
+    "name": "iphone 5",
+    "company": "mi",
+    "price": 500,
+    "category": "tv"
+  },
+  {
+    "name": "iphone 6",
+    "company": "apple",
+    "price": 600,
+    "category": "mobile"
+  }
+]
